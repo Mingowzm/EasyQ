@@ -1,0 +1,3 @@
+*.txt
+Makefile
+xcode_redirect.hpp
